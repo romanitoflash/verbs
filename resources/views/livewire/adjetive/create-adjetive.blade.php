@@ -73,7 +73,7 @@
             Livewire.on('alertCreate', function() {
                 
                 Swal.fire({
-                title: "Good job!",
+                title: "Good job! Adjetive have Created correctly ",
                 text: "You clicked the button!",
                 icon: "success"
                 });
